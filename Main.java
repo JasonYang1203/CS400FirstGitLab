@@ -1,5 +1,8 @@
 /*
  * Test the use of the Color method
+ * 	Author name: Jiaming Yang
+ *      Email: jyang766@wisc.edu
+ *      CS account user name: jiamingy
  */
 import java.util.*;
 

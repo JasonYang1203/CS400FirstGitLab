@@ -1,5 +1,8 @@
 /*
  *	Color class
+ *	Author name: Jiaming Yang
+ *	Email: jyang766@wisc.edu
+ *	CS account user name: jiamingy
  */
 public class Color{
 	private String color;
